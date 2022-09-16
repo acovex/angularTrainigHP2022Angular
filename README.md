@@ -1,0 +1,1 @@
+# angularTrainigHP2022Angular
