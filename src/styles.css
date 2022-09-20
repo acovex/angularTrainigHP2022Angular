@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+.p-10 {
+  padding: 10px 10px 10px 10px
+}
+
+.text-center {
+  text-align: center;
+}
+
+.middle {
+  display: inline-block;
+  vertical-align: middle;
+  line-height: normal;
+}
